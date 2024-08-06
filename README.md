@@ -1,4 +1,4 @@
-![Designer](https://github.com/user-attachments/assets/f5854ea6-b3d2-4951-8b73-48b6524f3d53)
+Caaracter generator and Manager for DrD 1.5
 
 
-CHaracter generator and Manager for DrD 1.5
+![DesignerS](https://github.com/user-attachments/assets/7e1c2d1c-2416-44c8-ae8f-cad6d60793c3)
